@@ -65,11 +65,11 @@ div.menu {display:none}
 
 #allLinks {
 	text-align:left;
-	border: 2px dashed gray;
+	border: 2px solid gray;
 	margin: 5px;
 	padding: 10px;
 }
-#allLinks a { text-decoration:none; color:green; font-weight:bold;}
+#allLinks a { text-decoration:none; color:blue; font-weight:bold;}
 #allLinks a:hover { text-decoration: underline; }
 
 #tag a { text-decoration:none; color:black; font-weight:normal;}
