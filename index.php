@@ -28,6 +28,7 @@
 	<div class="sticky col span_1_of_3">
 <!-- ABOUT SECTION HERE -->	
 	  <div id="about">
+<?php echo "hi?"; ?> 
 		  <p>There's nothing much here but a collection of my tweets before I made my Stray Kids fan account. 
 		  I love looking back at memories.
 		  I didn't know that I'll love Stray Kids this much *le cries*</p>
