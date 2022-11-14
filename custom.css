@@ -1,15 +1,23 @@
 body {
-	margin:0; 
-	background-color:#075653; 
-	color:black; 
-	font-family:Arial; 
+	margin:0;
+	background-color:#075653;
+	color:black;
+	font-family:Arial;
 	font-size: 13px;
-	text-align:center; 
+	text-align:center;
 }
 
 h5 { text-align:center; }
 
 div.menu {display:none}
+
+.main {max-width: 800px; margin: 0 auto;}
+
+.watermark img {width: 100%}
+
+.white {background-color: #fff}
+.black {background-color: #000}
+
 
 #header { margin:0 auto; max-width:800px;}
 
@@ -80,9 +88,9 @@ div.menu {display:none}
 
 
 #small {
-	text-align:center; 
-	text-align:center; 
-	font-size:9px; 
+	text-align:center;
+	text-align:center;
+	font-size:9px;
 	font-weight: bold; background-color:black;
 	color:yellow;
 	padding:5px;
